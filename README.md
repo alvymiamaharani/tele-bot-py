@@ -5,8 +5,8 @@
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/telegram-medical-bot.git
-cd telegram-medical-bot
+git clone https://github.com/alvymiamaharani/tele-bot-py
+cd tele-bot-py
 ```
 
 ### 2. Create a Virtual Environment
